@@ -1,5 +1,9 @@
 <p align="center">
-  <a href="https://www.perplace.com"><img src="assets/banner.jpg" alt="Perplace. Worlds that agents can inhabit. From the outside in." width="100%"></a>
+  <a href="https://www.perplace.com"><img src="assets/lockup.png" alt="Perplace" width="520"></a>
+</p>
+<p align="center"><b>Worlds that agents can inhabit.</b></p>
+<p align="center">
+  <a href="https://www.perplace.com"><img src="assets/banner.jpg" alt="An urban design study with buildings of different heights and detailed facades." width="100%"></a>
 </p>
 
 <p align="center">
